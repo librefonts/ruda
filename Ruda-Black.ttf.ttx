@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Ruda-Black.ttf.GlyphOrder.ttx"/>
+  <head src="Ruda-Black.ttf._h_e_a_d.ttx"/>
+  <hhea src="Ruda-Black.ttf._h_h_e_a.ttx"/>
+  <maxp src="Ruda-Black.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Ruda-Black.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Ruda-Black.ttf._h_m_t_x.ttx"/>
+  <cmap src="Ruda-Black.ttf._c_m_a_p.ttx"/>
+  <prep src="Ruda-Black.ttf._p_r_e_p.ttx"/>
+  <loca src="Ruda-Black.ttf._l_o_c_a.ttx"/>
+  <glyf src="Ruda-Black.ttf._g_l_y_f.ttx"/>
+  <name src="Ruda-Black.ttf._n_a_m_e.ttx"/>
+  <post src="Ruda-Black.ttf._p_o_s_t.ttx"/>
+  <gasp src="Ruda-Black.ttf._g_a_s_p.ttx"/>
+  <FFTM src="Ruda-Black.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="Ruda-Black.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="Ruda-Black.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Ruda-Black.ttf.G_S_U_B_.ttx"/>
+  <DSIG src="Ruda-Black.ttf.D_S_I_G_.ttx"/>
+</ttFont>
