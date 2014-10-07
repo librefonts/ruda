@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [Ruda-Regular.ttf.ttx, Ruda-Black.ttf.ttx, Ruda-Bold.ttf.ttx, src/Ruda-Bold.otf.ttx,
+  src/Ruda-Regular.otf.ttx, src/Ruda-Black.otf.ttx, src/Ruda-Black-TTF.sfd, src/Ruda-Regular-TTF.sfd,
+  src/Ruda-Bold-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
